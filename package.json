@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prisma": "^7.7.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.7.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
